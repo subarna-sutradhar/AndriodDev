@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorsApp</string>
+    <string name="Text_welcome">Hello My Friends</string>
+    <string-array name="string_array_demo">
+        <item>java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+    </string-array>
+</resources>
